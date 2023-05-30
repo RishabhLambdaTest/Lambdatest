@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: ParallelChromeTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.155 s <<< FAILURE! - in ParallelChromeTest
+Testing Gmail(Google)  Time elapsed: 0.063 s  <<< ERROR!
+net.thucydides.core.webdriver.DriverConfigurationError: Could not instantiate class net.thucydides.core.webdriver.ProvidedDriver
+Caused by: net.thucydides.core.webdriver.DriverConfigurationError: 
+WebDriver was unable to create a new instance of type class net.thucydides.core.webdriver.ProvidedDriver
+WebDriver reported the following message: null
+See below for more details.
+Caused by: java.lang.NullPointerException
+
+Test Google title(Testing Google)  Time elapsed: 0.059 s  <<< ERROR!
+net.thucydides.core.webdriver.DriverConfigurationError: Could not instantiate class net.thucydides.core.webdriver.ProvidedDriver
+Caused by: net.thucydides.core.webdriver.DriverConfigurationError: 
+WebDriver was unable to create a new instance of type class net.thucydides.core.webdriver.ProvidedDriver
+WebDriver reported the following message: null
+See below for more details.
+Caused by: java.lang.NullPointerException
+

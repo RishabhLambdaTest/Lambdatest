@@ -1,0 +1,18 @@
+# Created at 2023-05-15T19:45:22.062
+OpenJDK 64-Bit Server VM warning: Ignoring option MaxPermSize; support was removed in 8.0
+
+# Created at 2023-05-15T19:45:23.073
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2023-05-15T19:45:23.073
+WARNING: Illegal reflective access by net.thucydides.core.steps.StepInterceptor (file:/Users/shubhamr/.m2/repository/net/serenity-bdd/serenity-core/3.6.15/serenity-core-3.6.15.jar) to field java.lang.reflect.Method.root
+
+# Created at 2023-05-15T19:45:23.073
+WARNING: Please consider reporting this to the maintainers of net.thucydides.core.steps.StepInterceptor
+
+# Created at 2023-05-15T19:45:23.074
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2023-05-15T19:45:23.074
+WARNING: All illegal access operations will be denied in a future release
+
